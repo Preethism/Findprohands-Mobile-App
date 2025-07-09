@@ -4,8 +4,8 @@
   <section>
     <h2>Findprohands-Mobile-App</h2>
 
-    <section>
-    <h2>Key Responisibilites</h2>
+  <section>
+  <h2>Key Responisibilites</h2>
    <ul>
 <li>Collaborate with Product owners and Developers to understand requirements and translate them into comprehensive test plans, test cases, and test strategies, covering functional, regression, integration, and non-functional testing.</li>
 <li>Design and execute manual test cases for web and mobile platforms, focusing on UI anomalies, edge cases, and user experience.</li>
