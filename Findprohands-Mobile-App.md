@@ -1,7 +1,6 @@
 
 <html lang="en">
   <body>
-  <section>
     <h2>Findprohands-Mobile-App</h2>
 
 <section>
