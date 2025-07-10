@@ -1,4 +1,4 @@
-# Findprohands-Mobile-App
+
 <html lang="en">
   <body>
   <section>
@@ -12,7 +12,6 @@
 <li>Execute manual tests cases, log defects in a tracking tool Jira and work closely with developers to verify fixes. </li>
 <li>Perform post-release and smoke testing to validate deployments in staging and production. </li>
 <li>Develop and implement test strategies manual across mobile platforms. </li>
-<li>Conduct end-to-end testing, Log defects, coordinate with developers, and verify fixes</li>
 <li>Conduct end-to-end testing, Log defects, coordinate with developers, and verify fixes</li>
 <li>Collaborate with Developers in Agile methodology.</li>
    </ul>
