@@ -16,8 +16,7 @@
 <li>Collaborate with Developers in Agile methodology.</li>
    </ul>
  </section>
-
- </section>
+ 
  </body>
  </html>
    
